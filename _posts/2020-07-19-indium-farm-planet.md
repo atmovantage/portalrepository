@@ -1,7 +1,7 @@
 ---
 ID: 18977
 post_title: Indium Farm Planet
-author: Repository Administrator
+author: Halbatroll
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,6 +1,6 @@
 ---
 ID: 18981
-post_title: Rakata Prime
+post_title: 'Rakata Prime &#8211; The Star Forge'
 author: Jon Blue
 post_excerpt: ""
 layout: post

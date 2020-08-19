@@ -1,6 +1,6 @@
 ---
 ID: 82
-post_title: 'The Portal Repository: Exo Mech'
+post_title: 'The Portal Repository: Desolation'
 author: Repository Administrator
 post_excerpt: ""
 layout: page
@@ -8,6 +8,7 @@ permalink: https://portalrepository.com/
 published: true
 post_date: 2017-10-15 20:48:34
 ---
+<h4 style="text-align: center;"> </h4>
 <p style="text-align: center;">[otw_shortcode_button href="/share/" size="medium" icon_type="general foundicon-plus" icon_position="left" shape="radius" color_class="otw-black" text_color="#31c8ce"]Submit A New Portal Address[/otw_shortcode_button]  [otw_shortcode_button href="https://www.patreon.com/portalrepository" size="medium" bgcolor="#f96754" icon_type="general foundicon-heart"  icon_position="left" shape="radius" color_class="otw-orange" target="_blank"]Support This Website[/otw_shortcode_button]</p>
 <p>[lgc_column grid="50" tablet_grid="50" mobile_grid="100" last="false"]<span style="font-size: 18pt; font-family: geonms3; letter-spacing: 2px;"><a href="https://portalrepository.com/all-addresses/"><strong>Total Addresses: [show-posts-count]</strong></a></span>[/lgc_column][lgc_column grid="50" tablet_grid="50" mobile_grid="100" last="true"]<span style="font-size: 18pt; font-family: geonms3; letter-spacing: 2px;"><a href="https://portalrepository.com/all-users/"><strong>Registered Travellers: [sbs_users]</strong></a></span>[/lgc_column]</p>
 <hr />
@@ -22,7 +23,7 @@ post_date: 2017-10-15 20:48:34
 <p>Each galaxy contains a network of portals (similar to Stargates) that allow instantaneous travel between worlds within a galaxy.</p>
 <p>Portals can be activated by dialing a twelve-digit sequence (out of the sixteen total glyphs). You can learn more about portals on the <a href="https://nomanssky.gamepedia.com/Portal">No Man's Sky Gamepedia wiki page</a>.</p>
 <hr />
-<h4 style="text-align: center;"><a href="https://portalrepository.com/2018/11/17/the-meaning-of-the-glyphs/"><span style="font-family: geonms3; font-size: 32px;">Awake and witness creation! The Beyond takes us in an instant. The cycle continues but our time here is brief. The galaxy is our burden. Things fall apart, yet entropy holds.</span></a></h4>
+<h4 style="text-align: center;"><a href="https://portalrepository.com/2018/11/17/the-meaning-of-the-glyphs/"><span style="font-family: geonms3; font-size: 32px;">Awake and witness creation! The Beyond takes us in an instant. The cycle continues but our time here is brief. The galaxy is our burden. Things fall apart because entropy holds.</span></a></h4>
 <hr />
 <p style="text-align: center;">View historical archives of addresses submitted during previous iterations:</p>
 <p style="text-align: center;"><em><a href="https://atlasrises.portalrepository.com" target="_blank" rel="noopener noreferrer">Atlas Rises Archive</a></em></p>
